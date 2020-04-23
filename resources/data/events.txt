@@ -1,0 +1,17 @@
+2020-02-12 12:37:59,511;modules.flame;1
+2020-02-12 12:38:04,517;modules.flame;1
+2020-02-12 12:38:19,534;modules.flame;1
+2020-02-12 12:39:46,465;modules.flame;1
+2020-02-12 12:51:03,706;modules.flame;1
+2020-02-12 12:51:38,745;modules.flame;1
+2020-02-12 12:52:03,763;modules.flame;1
+2020-02-12 13:32:38,924;modules.flame;1
+2020-02-12 13:43:49,277;modules.flame;1
+2020-02-12 13:47:33,973;modules.flame;1
+2020-02-12 13:49:07,736;modules.flame;1
+2020-02-15 12:49:57,234;modules.flame;1
+2020-02-15 13:06:16,649;modules.flame;1
+2020-02-15 13:22:06,494;modules.flame;1
+2020-02-15 14:28:48,986:modules.UltraSonic:Motion detected
+2020-02-25 22:47:45,684;modules.flame;1
+
